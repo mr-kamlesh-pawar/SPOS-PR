@@ -1,0 +1,13 @@
+START 200
+
+S0 DL 1 5 
+S1 DL 2 10 
+S2 IS 1 S0 
+S3 IS 2 S1 
+S4 DL 1 2 
+S5 DL 2 5 
+S6 IS 4 A, S1 
+L0 
+L1 
+END
+
