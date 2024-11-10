@@ -1,2 +1,0 @@
-:	MOV	A	B	
-:	MUL	X	Y	
